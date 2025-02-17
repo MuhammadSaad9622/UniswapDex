@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+
+body {
+    font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* body,html{
+    background-image:radial-gradient(49% 50% at 50% 50%, rgba(64, 68, 79, 0.1) 0%, rgba(33, 36, 41, 0) 100%)!important;
+} */
+
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #16161d;
+    }
+}
+.dfSQBT .react-switch-bg[style], .dfSQBT .react-switch-handle[style], .ibnZJv{
+    display:none;
+}
+
+a{
+    text-decoration:none;
+    color:#C4C4C4;
+}
+
+@media(min-width:600px){
+    .jgQEwu{
+        padding-right:30px!important;
+        margin-left:10px;
+    }
+}

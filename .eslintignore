@@ -1,0 +1,7 @@
+build/*
+src/*
+node_modules/*
+*.js
+*.mjs
+*.ts
+*.tsx 
